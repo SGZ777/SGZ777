@@ -3,7 +3,7 @@ My name is Arthur and I am a student at Senai, expected to graduate in 2027. I'm
 
 💻 My hard skills:  
   
-Front-end: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
+Front-end: HTML, CSS, Bootstrap, JavaScript, React, Next.js, Tailwind CSS  
 Back-end: Python, Node.js, Java, PHP  
 Database: MySQL, POSTgresql, relacional databases  
 Mobile: Android Studio  
