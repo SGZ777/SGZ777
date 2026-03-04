@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
+My name is Arthur and i am a student at Senai, expected to graduate in 2027. I'm a full-stack developer, focusing on front-end and UI/UX design.
 
-<!--
-**SGZ777/SGZ777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My hard skills:
 
-Here are some ideas to get you started:
+Front-end: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+Back-end: Python, Node.js, Java, PHP
+Database: MySQL, POSTgresql, relacional databases
+Mobile: Android Studio
+Other skills: Git, VS Code, Microsoft Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects & Experience:
+E-commerces
+Industry-focused projects
+Personal Web projects
+Systems Development Technician Training (2025-2026)
+Systems analysis and development graduation (2026-2027)
+Strong leadership and a willingness to learn and improve.💪
+
+![cat-work-in-progress](https://github.com/user-attachments/assets/a4f25eab-9eb4-4b4d-bdd5-29e13492d56d)
