@@ -7,7 +7,7 @@ Front-end: HTML, CSS, Bootstrap, JavaScript, React, Next.js, Tailwind CSS
 Back-end: Python, Node.js, Java, PHP  
 Database: MySQL, POSTgresql, relacional databases  
 Mobile: Android Studio  
-Other skills: Git, VS Code, Microsoft Office  
+Other skills: Operating System, Git, VS Code, Microsoft Office  
 
 🚀 Projects & Experience:  
 
