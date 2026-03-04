@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Arthur and i am a student at Senai, expected to graduate in 2027. I'm a full-stack developer, focusing on front-end and UI/UX design.
+My name is Arthur and I am a student at Senai, expected to graduate in 2027. I'm a full-stack developer, focusing on front-end and UI/UX design.
 
 💻 My hard skills:
 
