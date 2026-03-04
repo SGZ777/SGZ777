@@ -10,6 +10,7 @@ Mobile: Android Studio
 Other skills: Git, VS Code, Microsoft Office  
 
 🚀 Projects & Experience:  
+
 E-commerces  
 Industry-focused projects  
 Personal Web projects  
