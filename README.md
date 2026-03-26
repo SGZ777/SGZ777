@@ -18,5 +18,6 @@ Systems Development Technician Training (2025-2026)
 Systems analysis and development graduation (2026-2027)  
 Strong leadership and a willingness to learn and improve.💪  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nodejs,java,py,androidstudio)](https://skillicons.dev)  
+Front-End: [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs)](https://skillicons.dev)  
+Back-End: [![My Skills](https://skillicons.dev/icons?i=nodejs,java,py,androidstudio)](https://skillicons.dev)  
 ![Snake animation](https://github.com/SGZ777/SGZ777/blob/output/github-contribution-grid-snake.svg)
